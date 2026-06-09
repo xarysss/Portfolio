@@ -1,4 +1,4 @@
-# Portfolio terminal - Titouan Mouysset
+# Portfolio terminal - Titouan Mouysset RT2 / 2026
 
 Portfolio statique inspire par une experience terminal/code editor.
 
